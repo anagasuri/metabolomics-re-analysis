@@ -12,8 +12,6 @@ This work contributed to the publication:
 *A case-control design of environmental exposures and metabolic alterations in early pregnancy loss using non-targeted analysis.*
 Environmental Chemistry and Ecotoxicology (2026)
 
----
-
 ## My Role
 
 I did not develop the original metabolomics analysis pipeline.
@@ -32,7 +30,6 @@ Specifically, I:
 - Documented the analysis process in a reproducible runbook
 - Contributed analyses supporting the final publication
 
----
 
 ## Study Background
 
@@ -40,7 +37,6 @@ Early pregnancy loss (EPL) affects approximately 15% of clinically recognized pr
 
 To better characterize these relationships, this study applied non-targeted analysis (NTA) to maternal plasma samples collected during the first trimester of pregnancy. By simultaneously measuring endogenous metabolites and exogenous environmental chemicals, the study aimed to identify biological pathways and environmental exposures associated with pregnancy loss.
 
----
 
 ## Study Cohort
 
@@ -53,7 +49,6 @@ The study included:
 
 All participants had normal uterine anatomy and normal endocrine testing. Plasma samples were collected between 6 and 13 weeks of gestation.
 
----
 
 ## Data Generation
 
@@ -80,7 +75,6 @@ Following preprocessing:
 - 14,419 positive-ionization (ESI+) features were retained
 - 10,823 negative-ionization (ESI−) features were retained
 
----
 
 ## Analysis Workflow
 
@@ -114,7 +108,6 @@ Following preprocessing:
 - XGBoost feature prioritization
 - SHAP interpretation
 
----
 
 ## Key Findings from the Published Study
 
@@ -162,7 +155,6 @@ Correlation analyses suggested potential interactions between environmental expo
 
 XGBoost models successfully distinguished EPL from control samples and identified progesterone, lipid-derived metabolites, and additional metabolic features as major contributors to classification performance.
 
----
 
 ## Repository Contents
 
@@ -181,7 +173,6 @@ This repository contains scripts used during the re-analysis process, including:
 
 The repository primarily captures the stages of the workflow that were re-executed and validated following sample reclassification.
 
----
 
 ## Skills Demonstrated
 
@@ -198,7 +189,6 @@ The repository primarily captures the stages of the workflow that were re-execut
 - R
 - Scientific Documentation
 
----
 
 ## Publication
 
@@ -206,9 +196,10 @@ Ji X, Yilmaz BD, Edwards J, Nagasuri A, et al.
 
 **A case-control design of environmental exposures and metabolic alterations in early pregnancy loss using non-targeted analysis**
 
+https://www.sciencedirect.com/science/article/pii/S2590182626000779
+
 *Environmental Chemistry and Ecotoxicology* (2026)
 
----
 
 ## Author
 
